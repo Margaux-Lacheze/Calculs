@@ -37,6 +37,7 @@ namespace Calculs
                         // traitement des choix
                         val1 = rand.Next(1, 10);
                         val2 = rand.Next(1, 10);
+                        //blablabla
                         switch (choix)
                         {
                             case == 1:
